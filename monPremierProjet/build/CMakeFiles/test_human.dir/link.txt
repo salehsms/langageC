@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_human.dir/one_run_human_test.cpp.o CMakeFiles/test_human.dir/view.cpp.o CMakeFiles/test_human.dir/mask.cpp.o CMakeFiles/test_human.dir/board.cpp.o CMakeFiles/test_human.dir/game.cpp.o -o test_human 

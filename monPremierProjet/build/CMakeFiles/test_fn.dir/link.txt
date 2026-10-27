@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_fn.dir/test_fn.cpp.o CMakeFiles/test_fn.dir/board.cpp.o -o test_fn 

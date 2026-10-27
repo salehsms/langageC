@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_mask.dir/test_mask.cpp.o CMakeFiles/test_mask.dir/view.cpp.o CMakeFiles/test_mask.dir/mask.cpp.o CMakeFiles/test_mask.dir/board.cpp.o -o test_mask 

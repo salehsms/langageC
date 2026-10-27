@@ -1,0 +1,6 @@
+/etudiants/msaleh/projet/build/CMakeFiles/main.dir
+/etudiants/msaleh/projet/build/CMakeFiles/test_fn.dir
+/etudiants/msaleh/projet/build/CMakeFiles/test_mask.dir
+/etudiants/msaleh/projet/build/CMakeFiles/test_human.dir
+/etudiants/msaleh/projet/build/CMakeFiles/edit_cache.dir
+/etudiants/msaleh/projet/build/CMakeFiles/rebuild_cache.dir

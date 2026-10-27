@@ -1,0 +1,1107 @@
+In file included from /usr/include/c++/12/iostream:38,
+                 from /etudiants/msaleh/projet/main.cpp:5:
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h: In function ‘void print_square_color(Plata (*)[8], int (*)[8])’:
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h:296:1: error: ‘namespace’ definition is not allowed here
+  296 | namespace std
+      | ^~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h:329:1: error: ‘namespace’ definition is not allowed here
+  329 | namespace std
+      | ^~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h:333:1: error: ‘namespace’ definition is not allowed here
+  333 | namespace __gnu_cxx
+      | ^~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h:508:1: error: ‘namespace’ definition is not allowed here
+  508 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/memoryfwd.h:50:15: error: expected ‘=’ before ‘__attribute__’
+   50 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/memoryfwd.h:50:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/stringfwd.h:40,
+                 from /usr/include/c++/12/iosfwd:39,
+                 from /usr/include/c++/12/ios:38,
+                 from /usr/include/c++/12/ostream:38,
+                 from /usr/include/c++/12/iostream:39:
+/usr/include/c++/12/bits/memoryfwd.h:50:14: error: expected ‘;’ before ‘__attribute__’
+   50 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/memoryfwd.h:51:1: error: expected primary-expression before ‘{’ token
+   51 | {
+      | ^
+/usr/include/c++/12/bits/stringfwd.h:42:15: error: expected ‘=’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stringfwd.h:42:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/stringfwd.h:42:14: error: expected ‘;’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stringfwd.h:43:1: error: expected primary-expression before ‘{’ token
+   43 | {
+      | ^
+In file included from /usr/include/features.h:489,
+                 from /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h:39,
+                 from /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h:655:
+/usr/include/wchar.h:79:1: error: expected unqualified-id before string constant
+   79 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+In file included from /usr/include/c++/12/bits/postypes.h:40,
+                 from /usr/include/c++/12/iosfwd:40:
+/usr/include/c++/12/cwchar:62:1: error: ‘namespace’ definition is not allowed here
+   62 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/cwchar:135:8: error: expected unqualified-id before string constant
+  135 | extern "C++"
+      |        ^~~~~
+/usr/include/c++/12/cwchar:244:1: error: ‘namespace’ definition is not allowed here
+  244 | namespace __gnu_cxx
+      | ^~~~~~~~~
+/usr/include/c++/12/cwchar:265:1: error: ‘namespace’ definition is not allowed here
+  265 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/cwchar:280:1: error: ‘namespace’ definition is not allowed here
+  280 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/postypes.h:42:15: error: expected ‘=’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/postypes.h:42:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/postypes.h:42:14: error: expected ‘;’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/postypes.h:43:1: error: expected primary-expression before ‘{’ token
+   43 | {
+      | ^
+/usr/include/c++/12/iosfwd:42:15: error: expected ‘=’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/iosfwd:42:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/iosfwd:42:14: error: expected ‘;’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/iosfwd:43:1: error: expected primary-expression before ‘{’ token
+   43 | {
+      | ^
+In file included from /usr/include/c++/12/exception:38,
+                 from /usr/include/c++/12/ios:39:
+/usr/include/c++/12/bits/exception.h:40:8: error: expected unqualified-id before string constant
+   40 | extern "C++" {
+      |        ^~~~~
+/usr/include/c++/12/exception:40:8: error: expected unqualified-id before string constant
+   40 | extern "C++" {
+      |        ^~~~~
+In file included from /usr/include/c++/12/bits/exception_ptr.h:38,
+                 from /usr/include/c++/12/exception:168:
+/usr/include/c++/12/bits/cxxabi_init_exception.h:50:1: error: ‘namespace’ definition is not allowed here
+   50 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/cxxabi_init_exception.h:55:1: error: ‘namespace’ definition is not allowed here
+   55 | namespace __cxxabiv1
+      | ^~~~~~~~~
+In file included from /usr/include/c++/12/typeinfo:36,
+                 from /usr/include/c++/12/bits/exception_ptr.h:39:
+/usr/include/c++/12/bits/hash_bytes.h:37:1: error: ‘namespace’ definition is not allowed here
+   37 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/typeinfo:45:8: error: expected unqualified-id before string constant
+   45 | extern "C++" {
+      |        ^~~~~
+In file included from /usr/include/c++/12/bits/exception_ptr.h:40:
+/usr/include/c++/12/new:45:8: error: expected unqualified-id before string constant
+   45 | extern "C++" {
+      |        ^~~~~
+/usr/include/c++/12/new:186:1: error: ‘namespace’ definition is not allowed here
+  186 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/move.h:38:15: error: expected ‘=’ before ‘__attribute__’
+   38 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/move.h:38:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/exception_ptr.h:43:
+/usr/include/c++/12/bits/move.h:38:14: error: expected ‘;’ before ‘__attribute__’
+   38 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/move.h:39:1: error: expected primary-expression before ‘{’ token
+   39 | {
+      | ^
+/usr/include/c++/12/type_traits:40:15: error: expected ‘=’ before ‘__attribute__’
+   40 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/type_traits:40:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/move.h:57:
+/usr/include/c++/12/type_traits:40:14: error: expected ‘;’ before ‘__attribute__’
+   40 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/type_traits:41:1: error: expected primary-expression before ‘{’ token
+   41 | {
+      | ^
+/usr/include/c++/12/bits/move.h:59:15: error: expected ‘=’ before ‘__attribute__’
+   59 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/move.h:59:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/move.h:59:14: error: expected ‘;’ before ‘__attribute__’
+   59 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/move.h:60:1: error: expected primary-expression before ‘{’ token
+   60 | {
+      | ^
+/usr/include/c++/12/bits/exception_ptr.h:52:8: error: expected unqualified-id before string constant
+   52 | extern "C++" {
+      |        ^~~~~
+In file included from /usr/include/c++/12/exception:169:
+/usr/include/c++/12/bits/nested_exception.h:42:8: error: expected unqualified-id before string constant
+   42 | extern "C++" {
+      |        ^~~~~
+/usr/include/c++/12/bits/char_traits.h:53:21: error: expected ‘=’ before ‘__attribute__’
+   53 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                     ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/char_traits.h:53:21: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/ios:40:
+/usr/include/c++/12/bits/char_traits.h:53:20: error: expected ‘;’ before ‘__attribute__’
+   53 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                    ^
+      |                    ;
+/usr/include/c++/12/bits/char_traits.h:54:1: error: expected primary-expression before ‘{’ token
+   54 | {
+      | ^
+/usr/include/c++/12/bits/char_traits.h:303:15: error: expected ‘=’ before ‘__attribute__’
+  303 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/char_traits.h:303:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/char_traits.h:303:14: error: expected ‘;’ before ‘__attribute__’
+  303 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/char_traits.h:304:1: error: expected primary-expression before ‘{’ token
+  304 | {
+      | ^
+In file included from /usr/include/c++/12/bits/char_traits.h:731:
+/usr/include/c++/12/cstdint:44:1: error: ‘namespace’ definition is not allowed here
+   44 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/char_traits.h:733:15: error: expected ‘=’ before ‘__attribute__’
+  733 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/char_traits.h:733:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/char_traits.h:733:14: error: expected ‘;’ before ‘__attribute__’
+  733 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/char_traits.h:734:1: error: expected primary-expression before ‘{’ token
+  734 | {
+      | ^
+/usr/include/locale.h:31:1: error: expected unqualified-id before string constant
+   31 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+In file included from /usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:41,
+                 from /usr/include/c++/12/bits/localefwd.h:40,
+                 from /usr/include/c++/12/ios:41:
+/usr/include/c++/12/clocale:51:1: error: ‘namespace’ definition is not allowed here
+   51 | namespace std
+      | ^~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:48:21: error: expected ‘=’ before ‘__attribute__’
+   48 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                     ^~~~~~~~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:48:21: error: expected identifier before ‘__attribute__’
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:48:20: error: expected ‘;’ before ‘__attribute__’
+   48 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                    ^
+      |                    ;
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:49:1: error: expected primary-expression before ‘{’ token
+   49 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:58:15: error: expected ‘=’ before ‘__attribute__’
+   58 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:58:15: error: expected identifier before ‘__attribute__’
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:58:14: error: expected ‘;’ before ‘__attribute__’
+   58 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++locale.h:59:1: error: expected primary-expression before ‘{’ token
+   59 | {
+      | ^
+/usr/include/ctype.h:28:1: error: expected unqualified-id before string constant
+   28 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+In file included from /usr/include/c++/12/bits/localefwd.h:42:
+/usr/include/c++/12/cctype:62:1: error: ‘namespace’ definition is not allowed here
+   62 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/cctype:85:1: error: ‘namespace’ definition is not allowed here
+   85 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/localefwd.h:44:15: error: expected ‘=’ before ‘__attribute__’
+   44 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/localefwd.h:44:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/localefwd.h:44:14: error: expected ‘;’ before ‘__attribute__’
+   44 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/localefwd.h:45:1: error: expected primary-expression before ‘{’ token
+   45 | {
+      | ^
+/usr/include/x86_64-linux-gnu/bits/sched.h:78:1: error: expected unqualified-id before string constant
+   78 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/bits/cpu-set.h:115:1: error: expected unqualified-id before string constant
+  115 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/sched.h:51:1: error: expected unqualified-id before string constant
+   51 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/bits/time.h:75:1: error: expected unqualified-id before string constant
+   75 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/time.h:68:1: error: expected unqualified-id before string constant
+   68 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:23:1: error: expected unqualified-id before string constant
+   23 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/pthread.h:197:1: error: expected unqualified-id before string constant
+  197 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+In file included from /usr/include/x86_64-linux-gnu/c++/12/bits/gthr.h:148,
+                 from /usr/include/c++/12/ext/atomicity.h:35,
+                 from /usr/include/c++/12/bits/ios_base.h:39,
+                 from /usr/include/c++/12/ios:42:
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:301:1: error: a function-definition is not allowed here before ‘{’ token
+  301 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:662:1: error: a function-definition is not allowed here before ‘{’ token
+  662 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:668:1: error: a function-definition is not allowed here before ‘{’ token
+  668 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:674:1: error: a function-definition is not allowed here before ‘{’ token
+  674 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:680:1: error: a function-definition is not allowed here before ‘{’ token
+  680 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:686:1: error: a function-definition is not allowed here before ‘{’ token
+  686 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:692:1: error: a function-definition is not allowed here before ‘{’ token
+  692 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:698:1: error: a function-definition is not allowed here before ‘{’ token
+  698 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:707:1: error: a function-definition is not allowed here before ‘{’ token
+  707 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:713:1: error: a function-definition is not allowed here before ‘{’ token
+  713 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:719:1: error: a function-definition is not allowed here before ‘{’ token
+  719 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:725:1: error: a function-definition is not allowed here before ‘{’ token
+  725 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:731:1: error: a function-definition is not allowed here before ‘{’ token
+  731 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:738:1: error: a function-definition is not allowed here before ‘{’ token
+  738 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:747:1: error: a function-definition is not allowed here before ‘{’ token
+  747 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:756:1: error: a function-definition is not allowed here before ‘{’ token
+  756 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:767:1: error: a function-definition is not allowed here before ‘{’ token
+  767 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:777:1: error: a function-definition is not allowed here before ‘{’ token
+  777 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:810:1: error: a function-definition is not allowed here before ‘{’ token
+  810 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:816:1: error: a function-definition is not allowed here before ‘{’ token
+  816 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:824:1: error: a function-definition is not allowed here before ‘{’ token
+  824 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:831:1: error: a function-definition is not allowed here before ‘{’ token
+  831 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:837:1: error: a function-definition is not allowed here before ‘{’ token
+  837 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:852:1: error: a function-definition is not allowed here before ‘{’ token
+  852 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:858:1: error: a function-definition is not allowed here before ‘{’ token
+  858 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:864:1: error: a function-definition is not allowed here before ‘{’ token
+  864 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:871:1: error: a function-definition is not allowed here before ‘{’ token
+  871 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:878:1: error: a function-definition is not allowed here before ‘{’ token
+  878 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/gthr-default.h:884:1: error: a function-definition is not allowed here before ‘{’ token
+  884 | {
+      | ^
+/usr/include/x86_64-linux-gnu/sys/single_threaded.h:24:1: error: expected unqualified-id before string constant
+   24 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/c++/12/ext/atomicity.h:41:21: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                     ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/ext/atomicity.h:41:21: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/ext/atomicity.h:41:20: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                    ^
+      |                    ;
+/usr/include/c++/12/ext/atomicity.h:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/bits/functexcept.h:42:15: error: expected ‘=’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/functexcept.h:42:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/new_allocator.h:35,
+                 from /usr/include/x86_64-linux-gnu/c++/12/bits/c++allocator.h:33,
+                 from /usr/include/c++/12/bits/allocator.h:46,
+                 from /usr/include/c++/12/string:41,
+                 from /usr/include/c++/12/bits/locale_classes.h:40,
+                 from /usr/include/c++/12/bits/ios_base.h:41:
+/usr/include/c++/12/bits/functexcept.h:42:14: error: expected ‘;’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/functexcept.h:43:1: error: expected primary-expression before ‘{’ token
+   43 | {
+      | ^
+/usr/include/c++/12/bits/new_allocator.h:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/new_allocator.h:41:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/new_allocator.h:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/new_allocator.h:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/c++allocator.h:36:1: error: ‘namespace’ definition is not allowed here
+   36 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/allocator.h:54:15: error: expected ‘=’ before ‘__attribute__’
+   54 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/allocator.h:54:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/allocator.h:54:14: error: expected ‘;’ before ‘__attribute__’
+   54 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/allocator.h:55:1: error: expected primary-expression before ‘{’ token
+   55 | {
+      | ^
+In file included from /usr/include/c++/12/string:42:
+/usr/include/c++/12/bits/cpp_type_traits.h:67:8: error: expected unqualified-id before string constant
+   67 | extern "C++" {
+      |        ^~~~~
+In file included from /usr/include/c++/12/bits/ostream_insert.h:36,
+                 from /usr/include/c++/12/string:44:
+/usr/include/c++/12/bits/cxxabi_forced.h:39:1: error: ‘namespace’ definition is not allowed here
+   39 | namespace __cxxabiv1
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/ostream_insert.h:39:15: error: expected ‘=’ before ‘__attribute__’
+   39 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/ostream_insert.h:39:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/ostream_insert.h:39:14: error: expected ‘;’ before ‘__attribute__’
+   39 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/ostream_insert.h:40:1: error: expected primary-expression before ‘{’ token
+   40 | {
+      | ^
+/usr/include/c++/12/bits/stl_iterator_base_types.h:74:15: error: expected ‘=’ before ‘__attribute__’
+   74 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_iterator_base_types.h:74:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/string:45:
+/usr/include/c++/12/bits/stl_iterator_base_types.h:74:14: error: expected ‘;’ before ‘__attribute__’
+   74 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stl_iterator_base_types.h:75:1: error: expected primary-expression before ‘{’ token
+   75 | {
+      | ^
+/usr/include/c++/12/bits/stl_iterator_base_funcs.h:68:15: error: expected ‘=’ before ‘__attribute__’
+   68 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_iterator_base_funcs.h:68:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/string:46:
+/usr/include/c++/12/bits/stl_iterator_base_funcs.h:68:14: error: expected ‘;’ before ‘__attribute__’
+   68 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stl_iterator_base_funcs.h:69:1: error: expected primary-expression before ‘{’ token
+   69 | {
+      | ^
+In file included from /usr/include/c++/12/bits/stl_iterator.h:65,
+                 from /usr/include/c++/12/string:47:
+/usr/include/c++/12/ext/type_traits.h:37:8: error: expected unqualified-id before string constant
+   37 | extern "C++" {
+      |        ^~~~~
+/usr/include/c++/12/bits/ptr_traits.h:46:15: error: expected ‘=’ before ‘__attribute__’
+   46 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/ptr_traits.h:46:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/stl_iterator.h:67:
+/usr/include/c++/12/bits/ptr_traits.h:46:14: error: expected ‘;’ before ‘__attribute__’
+   46 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/ptr_traits.h:47:1: error: expected primary-expression before ‘{’ token
+   47 | {
+      | ^
+/usr/include/c++/12/bits/stl_iterator.h:88:15: error: expected ‘=’ before ‘__attribute__’
+   88 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_iterator.h:88:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/stl_iterator.h:88:14: error: expected ‘;’ before ‘__attribute__’
+   88 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stl_iterator.h:89:1: error: expected primary-expression before ‘{’ token
+   89 | {
+      | ^
+/usr/include/c++/12/bits/stl_iterator.h:1031:21: error: expected ‘=’ before ‘__attribute__’
+ 1031 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                     ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_iterator.h:1031:21: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/stl_iterator.h:1031:20: error: expected ‘;’ before ‘__attribute__’
+ 1031 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                    ^
+      |                    ;
+/usr/include/c++/12/bits/stl_iterator.h:1032:1: error: expected primary-expression before ‘{’ token
+ 1032 | {
+      | ^
+/usr/include/c++/12/bits/stl_iterator.h:1346:15: error: expected ‘=’ before ‘__attribute__’
+ 1346 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_iterator.h:1346:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/stl_iterator.h:1346:14: error: expected ‘;’ before ‘__attribute__’
+ 1346 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stl_iterator.h:1347:1: error: expected primary-expression before ‘{’ token
+ 1347 | {
+      | ^
+/usr/include/c++/12/bits/stl_function.h:63:15: error: expected ‘=’ before ‘__attribute__’
+   63 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_function.h:63:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/string:48:
+/usr/include/c++/12/bits/stl_function.h:63:14: error: expected ‘;’ before ‘__attribute__’
+   63 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stl_function.h:64:1: error: expected primary-expression before ‘{’ token
+   64 | {
+      | ^
+/usr/include/c++/12/backward/binders.h:63:15: error: expected ‘=’ before ‘__attribute__’
+   63 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/backward/binders.h:63:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/stl_function.h:1438:
+/usr/include/c++/12/backward/binders.h:63:14: error: expected ‘;’ before ‘__attribute__’
+   63 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/backward/binders.h:64:1: error: expected primary-expression before ‘{’ token
+   64 | {
+      | ^
+/usr/include/c++/12/ext/numeric_traits.h:37:21: error: expected ‘=’ before ‘__attribute__’
+   37 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                     ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/ext/numeric_traits.h:37:21: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/string:49:
+/usr/include/c++/12/ext/numeric_traits.h:37:20: error: expected ‘;’ before ‘__attribute__’
+   37 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                    ^
+      |                    ;
+/usr/include/c++/12/ext/numeric_traits.h:38:1: error: expected primary-expression before ‘{’ token
+   38 | {
+      | ^
+/usr/include/c++/12/bits/utility.h:43:15: error: expected ‘=’ before ‘__attribute__’
+   43 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/utility.h:43:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/stl_pair.h:62,
+                 from /usr/include/c++/12/bits/stl_algobase.h:64,
+                 from /usr/include/c++/12/string:50:
+/usr/include/c++/12/bits/utility.h:43:14: error: expected ‘;’ before ‘__attribute__’
+   43 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/utility.h:44:1: error: expected primary-expression before ‘{’ token
+   44 | {
+      | ^
+/usr/include/c++/12/bits/stl_pair.h:69:15: error: expected ‘=’ before ‘__attribute__’
+   69 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_pair.h:69:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/stl_pair.h:69:14: error: expected ‘;’ before ‘__attribute__’
+   69 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stl_pair.h:70:1: error: expected primary-expression before ‘{’ token
+   70 | {
+      | ^
+In file included from /usr/include/c++/12/bits/stl_algobase.h:69:
+/usr/include/c++/12/debug/debug.h:48:1: error: ‘namespace’ definition is not allowed here
+   48 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/debug/debug.h:56:1: error: ‘namespace’ definition is not allowed here
+   56 | namespace __gnu_debug
+      | ^~~~~~~~~
+In file included from /usr/include/c++/12/bits/stl_algobase.h:71:
+/usr/include/c++/12/bits/predefined_ops.h:35:1: error: ‘namespace’ definition is not allowed here
+   35 | namespace __gnu_cxx
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/stl_algobase.h:79:15: error: expected ‘=’ before ‘__attribute__’
+   79 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_algobase.h:79:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/stl_algobase.h:79:14: error: expected ‘;’ before ‘__attribute__’
+   79 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stl_algobase.h:80:1: error: expected primary-expression before ‘{’ token
+   80 | {
+      | ^
+/usr/include/c++/12/bits/invoke.h:42:15: error: expected ‘=’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/invoke.h:42:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/refwrap.h:38,
+                 from /usr/include/c++/12/string:51:
+/usr/include/c++/12/bits/invoke.h:42:14: error: expected ‘;’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/invoke.h:43:1: error: expected primary-expression before ‘{’ token
+   43 | {
+      | ^
+/usr/include/c++/12/bits/refwrap.h:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/refwrap.h:41:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/refwrap.h:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/refwrap.h:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+In file included from /usr/include/c++/12/bits/range_access.h:36,
+                 from /usr/include/c++/12/string:52:
+/usr/include/c++/12/initializer_list:43:1: error: ‘namespace’ definition is not allowed here
+   43 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/bits/range_access.h:40:15: error: expected ‘=’ before ‘__attribute__’
+   40 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/range_access.h:40:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/range_access.h:40:14: error: expected ‘;’ before ‘__attribute__’
+   40 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/range_access.h:41:1: error: expected primary-expression before ‘{’ token
+   41 | {
+      | ^
+/usr/include/c++/12/bits/stl_construct.h:73:15: error: expected ‘=’ before ‘__attribute__’
+   73 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/stl_construct.h:73:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/alloc_traits.h:33,
+                 from /usr/include/c++/12/ext/alloc_traits.h:34,
+                 from /usr/include/c++/12/bits/basic_string.h:39,
+                 from /usr/include/c++/12/string:53:
+/usr/include/c++/12/bits/stl_construct.h:73:14: error: expected ‘;’ before ‘__attribute__’
+   73 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/stl_construct.h:74:1: error: expected primary-expression before ‘{’ token
+   74 | {
+      | ^
+/usr/include/c++/12/bits/alloc_traits.h:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/alloc_traits.h:41:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/alloc_traits.h:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/alloc_traits.h:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/ext/alloc_traits.h:39:21: error: expected ‘=’ before ‘__attribute__’
+   39 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                     ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/ext/alloc_traits.h:39:21: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/ext/alloc_traits.h:39:20: error: expected ‘;’ before ‘__attribute__’
+   39 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                    ^
+      |                    ;
+/usr/include/c++/12/ext/alloc_traits.h:40:1: error: expected primary-expression before ‘{’ token
+   40 | {
+      | ^
+/usr/include/c++/12/bits/functional_hash.h:38:15: error: expected ‘=’ before ‘__attribute__’
+   38 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/functional_hash.h:38:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/string_view:43,
+                 from /usr/include/c++/12/bits/basic_string.h:47:
+/usr/include/c++/12/bits/functional_hash.h:38:14: error: expected ‘;’ before ‘__attribute__’
+   38 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/functional_hash.h:39:1: error: expected primary-expression before ‘{’ token
+   39 | {
+      | ^
+/usr/include/c++/12/string_view:53:15: error: expected ‘=’ before ‘__attribute__’
+   53 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/string_view:53:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/string_view:53:14: error: expected ‘;’ before ‘__attribute__’
+   53 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/string_view:54:1: error: expected primary-expression before ‘{’ token
+   54 | {
+      | ^
+/usr/include/c++/12/bits/string_view.tcc:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/string_view.tcc:41:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/string_view:811:
+/usr/include/c++/12/bits/string_view.tcc:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/string_view.tcc:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/bits/basic_string.h:53:15: error: expected ‘=’ before ‘__attribute__’
+   53 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/basic_string.h:53:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/basic_string.h:53:14: error: expected ‘;’ before ‘__attribute__’
+   53 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/basic_string.h:54:1: error: expected primary-expression before ‘{’ token
+   54 | {
+      | ^
+/usr/include/c++/12/bits/basic_string.h:3389:15: error: expected ‘=’ before ‘__attribute__’
+ 3389 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/basic_string.h:3389:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/basic_string.h:3389:14: error: expected ‘;’ before ‘__attribute__’
+ 3389 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/basic_string.h:3390:1: error: expected primary-expression before ‘{’ token
+ 3390 | {
+      | ^
+/usr/include/stdlib.h:34:1: error: expected unqualified-id before string constant
+   34 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+In file included from /usr/include/c++/12/cstdlib:77,
+                 from /usr/include/c++/12/ext/string_conversions.h:41,
+                 from /usr/include/c++/12/bits/basic_string.h:3960:
+/usr/include/c++/12/bits/std_abs.h:46:8: error: expected unqualified-id before string constant
+   46 | extern "C++"
+      |        ^~~~~
+/usr/include/c++/12/cstdlib:121:8: error: expected unqualified-id before string constant
+  121 | extern "C++"
+      |        ^~~~~
+/usr/include/stdio.h:29:1: error: expected unqualified-id before string constant
+   29 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+In file included from /usr/include/c++/12/ext/string_conversions.h:43:
+/usr/include/c++/12/cstdio:96:1: error: ‘namespace’ definition is not allowed here
+   96 | namespace std
+      | ^~~~~~~~~
+/usr/include/c++/12/cstdio:157:1: error: ‘namespace’ definition is not allowed here
+  157 | namespace __gnu_cxx
+      | ^~~~~~~~~
+/usr/include/c++/12/cstdio:183:1: error: ‘namespace’ definition is not allowed here
+  183 | namespace std
+      | ^~~~~~~~~
+/usr/include/errno.h:34:1: error: expected unqualified-id before string constant
+   34 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/c++/12/ext/string_conversions.h:46:21: error: expected ‘=’ before ‘__attribute__’
+   46 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                     ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/ext/string_conversions.h:46:21: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/ext/string_conversions.h:46:20: error: expected ‘;’ before ‘__attribute__’
+   46 | namespace __gnu_cxx _GLIBCXX_VISIBILITY(default)
+      |                    ^
+      |                    ;
+/usr/include/c++/12/ext/string_conversions.h:47:1: error: expected primary-expression before ‘{’ token
+   47 | {
+      | ^
+/usr/include/c++/12/bits/charconv.h:39:15: error: expected ‘=’ before ‘__attribute__’
+   39 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/charconv.h:39:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/basic_string.h:3961:
+/usr/include/c++/12/bits/charconv.h:39:14: error: expected ‘;’ before ‘__attribute__’
+   39 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/charconv.h:40:1: error: expected primary-expression before ‘{’ token
+   40 | {
+      | ^
+/usr/include/c++/12/bits/basic_string.h:3963:15: error: expected ‘=’ before ‘__attribute__’
+ 3963 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/basic_string.h:3963:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/basic_string.h:3963:14: error: expected ‘;’ before ‘__attribute__’
+ 3963 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/basic_string.h:3964:1: error: expected primary-expression before ‘{’ token
+ 3964 | {
+      | ^
+/usr/include/c++/12/bits/basic_string.h:4226:15: error: expected ‘=’ before ‘__attribute__’
+ 4226 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/basic_string.h:4226:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/basic_string.h:4226:14: error: expected ‘;’ before ‘__attribute__’
+ 4226 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/basic_string.h:4227:1: error: expected primary-expression before ‘{’ token
+ 4227 | {
+      | ^
+/usr/include/c++/12/bits/basic_string.tcc:46:15: error: expected ‘=’ before ‘__attribute__’
+   46 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/basic_string.tcc:46:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/string:54:
+/usr/include/c++/12/bits/basic_string.tcc:46:14: error: expected ‘;’ before ‘__attribute__’
+   46 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/basic_string.tcc:47:1: error: expected primary-expression before ‘{’ token
+   47 | {
+      | ^
+/usr/include/c++/12/string:57:15: error: expected ‘=’ before ‘__attribute__’
+   57 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/string:57:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/string:57:14: error: expected ‘;’ before ‘__attribute__’
+   57 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/string:58:1: error: expected primary-expression before ‘{’ token
+   58 | {
+      | ^
+/usr/include/c++/12/bits/locale_classes.h:43:15: error: expected ‘=’ before ‘__attribute__’
+   43 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/locale_classes.h:43:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/locale_classes.h:43:14: error: expected ‘;’ before ‘__attribute__’
+   43 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/locale_classes.h:44:1: error: expected primary-expression before ‘{’ token
+   44 | {
+      | ^
+/usr/include/c++/12/bits/locale_classes.tcc:39:15: error: expected ‘=’ before ‘__attribute__’
+   39 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/locale_classes.tcc:39:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/locale_classes.h:857:
+/usr/include/c++/12/bits/locale_classes.tcc:39:14: error: expected ‘;’ before ‘__attribute__’
+   39 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/locale_classes.tcc:40:1: error: expected primary-expression before ‘{’ token
+   40 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/error_constants.h:36:15: error: expected ‘=’ before ‘__attribute__’
+   36 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/error_constants.h:36:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/system_error:39,
+                 from /usr/include/c++/12/bits/ios_base.h:46:
+/usr/include/x86_64-linux-gnu/c++/12/bits/error_constants.h:36:14: error: expected ‘;’ before ‘__attribute__’
+   36 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/x86_64-linux-gnu/c++/12/bits/error_constants.h:37:1: error: expected primary-expression before ‘{’ token
+   37 | {
+      | ^
+/usr/include/c++/12/stdexcept:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/stdexcept:41:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/system_error:41:
+/usr/include/c++/12/stdexcept:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/stdexcept:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/system_error:46:15: error: expected ‘=’ before ‘__attribute__’
+   46 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/system_error:46:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/system_error:46:14: error: expected ‘;’ before ‘__attribute__’
+   46 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/system_error:47:1: error: expected primary-expression before ‘{’ token
+   47 | {
+      | ^
+/usr/include/c++/12/system_error:488:15: error: expected ‘=’ before ‘__attribute__’
+  488 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/system_error:488:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/system_error:488:14: error: expected ‘;’ before ‘__attribute__’
+  488 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/system_error:489:1: error: expected primary-expression before ‘{’ token
+  489 | {
+      | ^
+/usr/include/c++/12/bits/ios_base.h:49:15: error: expected ‘=’ before ‘__attribute__’
+   49 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/ios_base.h:49:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/ios_base.h:49:14: error: expected ‘;’ before ‘__attribute__’
+   49 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/ios_base.h:50:1: error: expected primary-expression before ‘{’ token
+   50 | {
+      | ^
+/usr/include/c++/12/streambuf:45:15: error: expected ‘=’ before ‘__attribute__’
+   45 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/streambuf:45:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/ios:43:
+/usr/include/c++/12/streambuf:45:14: error: expected ‘;’ before ‘__attribute__’
+   45 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/streambuf:46:1: error: expected primary-expression before ‘{’ token
+   46 | {
+      | ^
+/usr/include/c++/12/bits/streambuf.tcc:39:15: error: expected ‘=’ before ‘__attribute__’
+   39 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/streambuf.tcc:39:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/streambuf:858:
+/usr/include/c++/12/bits/streambuf.tcc:39:14: error: expected ‘;’ before ‘__attribute__’
+   39 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/streambuf.tcc:40:1: error: expected primary-expression before ‘{’ token
+   40 | {
+      | ^
+/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:87:1: error: expected unqualified-id before string constant
+   87 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+/usr/include/wctype.h:44:1: error: expected unqualified-id before string constant
+   44 | __BEGIN_DECLS
+      | ^~~~~~~~~~~~~
+In file included from /usr/include/c++/12/bits/locale_facets.h:39,
+                 from /usr/include/c++/12/bits/basic_ios.h:37,
+                 from /usr/include/c++/12/ios:44:
+/usr/include/c++/12/cwctype:80:1: error: ‘namespace’ definition is not allowed here
+   80 | namespace std
+      | ^~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/ctype_base.h:36:15: error: expected ‘=’ before ‘__attribute__’
+   36 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/ctype_base.h:36:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/locale_facets.h:41:
+/usr/include/x86_64-linux-gnu/c++/12/bits/ctype_base.h:36:14: error: expected ‘;’ before ‘__attribute__’
+   36 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/x86_64-linux-gnu/c++/12/bits/ctype_base.h:37:1: error: expected primary-expression before ‘{’ token
+   37 | {
+      | ^
+/usr/include/c++/12/bits/streambuf_iterator.h:38:15: error: expected ‘=’ before ‘__attribute__’
+   38 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/streambuf_iterator.h:38:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/locale_facets.h:48:
+/usr/include/c++/12/bits/streambuf_iterator.h:38:14: error: expected ‘;’ before ‘__attribute__’
+   38 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/streambuf_iterator.h:39:1: error: expected primary-expression before ‘{’ token
+   39 | {
+      | ^
+/usr/include/c++/12/bits/locale_facets.h:50:15: error: expected ‘=’ before ‘__attribute__’
+   50 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/locale_facets.h:50:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/locale_facets.h:50:14: error: expected ‘;’ before ‘__attribute__’
+   50 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/locale_facets.h:51:1: error: expected primary-expression before ‘{’ token
+   51 | {
+      | ^
+/usr/include/x86_64-linux-gnu/c++/12/bits/ctype_inline.h:37:15: error: expected ‘=’ before ‘__attribute__’
+   37 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/x86_64-linux-gnu/c++/12/bits/ctype_inline.h:37:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/locale_facets.h:1546:
+/usr/include/x86_64-linux-gnu/c++/12/bits/ctype_inline.h:37:14: error: expected ‘;’ before ‘__attribute__’
+   37 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/x86_64-linux-gnu/c++/12/bits/ctype_inline.h:38:1: error: expected primary-expression before ‘{’ token
+   38 | {
+      | ^
+/usr/include/c++/12/bits/locale_facets.h:1548:15: error: expected ‘=’ before ‘__attribute__’
+ 1548 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/locale_facets.h:1548:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/locale_facets.h:1548:14: error: expected ‘;’ before ‘__attribute__’
+ 1548 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/locale_facets.h:1549:1: error: expected primary-expression before ‘{’ token
+ 1549 | {
+      | ^
+/usr/include/c++/12/bits/locale_facets.tcc:35:15: error: expected ‘=’ before ‘__attribute__’
+   35 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/locale_facets.tcc:35:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/locale_facets.h:2687:
+/usr/include/c++/12/bits/locale_facets.tcc:35:14: error: expected ‘;’ before ‘__attribute__’
+   35 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/locale_facets.tcc:36:1: error: expected primary-expression before ‘{’ token
+   36 | {
+      | ^
+/usr/include/c++/12/bits/basic_ios.h:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/basic_ios.h:41:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/bits/basic_ios.h:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/basic_ios.h:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/bits/basic_ios.tcc:35:15: error: expected ‘=’ before ‘__attribute__’
+   35 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/basic_ios.tcc:35:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/bits/basic_ios.h:516:
+/usr/include/c++/12/bits/basic_ios.tcc:35:14: error: expected ‘;’ before ‘__attribute__’
+   35 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/basic_ios.tcc:36:1: error: expected primary-expression before ‘{’ token
+   36 | {
+      | ^
+/usr/include/c++/12/ostream:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/ostream:41:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/ostream:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/ostream:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/bits/ostream.tcc:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/ostream.tcc:41:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/ostream:833:
+/usr/include/c++/12/bits/ostream.tcc:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/ostream.tcc:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/istream:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/istream:41:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/iostream:40:
+/usr/include/c++/12/istream:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/istream:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/bits/istream.tcc:41:15: error: expected ‘=’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/bits/istream.tcc:41:15: error: expected identifier before ‘__attribute__’
+In file included from /usr/include/c++/12/istream:1016:
+/usr/include/c++/12/bits/istream.tcc:41:14: error: expected ‘;’ before ‘__attribute__’
+   41 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/bits/istream.tcc:42:1: error: expected primary-expression before ‘{’ token
+   42 | {
+      | ^
+/usr/include/c++/12/iostream:42:15: error: expected ‘=’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |               ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/12/iostream:42:15: error: expected identifier before ‘__attribute__’
+/usr/include/c++/12/iostream:42:14: error: expected ‘;’ before ‘__attribute__’
+   42 | namespace std _GLIBCXX_VISIBILITY(default)
+      |              ^
+      |              ;
+/usr/include/c++/12/iostream:43:1: error: expected primary-expression before ‘{’ token
+   43 | {
+      | ^
+/etudiants/msaleh/projet/main.cpp:7:34: error: a function-definition is not allowed here before ‘{’ token
+    7 | int main(int argc, char *argv[]) {
+      |                                  ^
+/etudiants/msaleh/projet/main.cpp:37:2: error: expected ‘}’ at end of input
+   37 | }
+      |  ^
+In file included from /etudiants/msaleh/projet/main.cpp:3:
+/etudiants/msaleh/projet/view.hpp:7:108: note: to match this ‘{’
+    7 | void print_square_color(Plata pl[taille_plateau][taille_plateau],int mask[taille_plateau][taille_plateau]) {
+      |                                                                                                            ^
+make[2]: *** [CMakeFiles/main.dir/build.make:76 : CMakeFiles/main.dir/main.cpp.o] Erreur 1
+make[1]: *** [CMakeFiles/Makefile2:87 : CMakeFiles/main.dir/all] Erreur 2
+make: *** [Makefile:91 : all] Erreur 2
